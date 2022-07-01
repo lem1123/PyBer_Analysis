@@ -16,7 +16,7 @@
   
 ![total_fares_by_city_type.png](total_fares_by_city_type.png)
 
-This discrepancy is also shown in our final chart produced by the data as you can see the rural line in blue hovering close to the lower limit of the average fare and well below $500, while the suburban and urban city types exceed the $500 mark and soar toward the top of the chart. 
+  This discrepancy is also shown in our final chart produced by the data as you can see the rural line in blue hovering close to the lower limit of the average fare and well below $500, while the suburban and urban city types exceed the $500 mark and soar toward the top of the chart. 
 
 ![final_results_chart.png](final_results_chart.png)
 
@@ -26,7 +26,7 @@ This discrepancy is also shown in our final chart produced by the data as you ca
   
 ![driver_count.png](driver_count.png)
 
-Additionally, it can be noted that the average fare per driver is much higher for drivers in rural areas likely because of the greater distance between pickups and dropoffs.  The average fare for rural drivers is $55.49 as seen in the image below.  Unlike rural drivers, urban drivers make a lot less per fare at $16.57 on average.  Suburban drivers make somewhere in the middle between the two types as they have longer distances between pickups and drop offs but do not have as far to travel as the rural area drivers do.   
+  Additionally, it can be noted that the average fare per driver is much higher for drivers in rural areas likely because of the greater distance between pickups and dropoffs.  The average fare for rural drivers is $55.49 as seen in the image below.  Unlike rural drivers, urban drivers make a lot less per fare at $16.57 on average.  Suburban drivers make somewhere in the middle between the two types as they have longer distances between pickups and drop offs but do not have as far to travel as the rural area drivers do.   
 
 ![avg_fare_per_driver.png](avg_fare_per_driver.png) 
 
